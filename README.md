@@ -1,2 +1,2 @@
 # fillit
-make tetraminos figure
+make squre from tetromino figures
